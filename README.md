@@ -1,1 +1,1 @@
-# Bouncing-Ball-Game-in-C-
+# Bouncing Ball Game in C++
